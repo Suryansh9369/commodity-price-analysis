@@ -35,6 +35,13 @@ def fetch_data(ticker, name):
 def store_data(df, table_name):
     """store dataframe into sqlite3"""
     try:
+        # Fix 1: Move Date index to column
+        df = df.reset_index(names="Date")
+        
+        
+        # Fix 2: Flatten column names
+        df.columns = [col[0] if isinstance(col, tuple) else col for col in df.columns]
+        
         df.to_sql(table_name, con=engine, if_exists="replace", index=True)
         logging.info(f"stored data in table: {table_name}")
         
