@@ -20,7 +20,7 @@ def fetch_data(ticker, name):
     try:
         logging.info(f"Fetching data from {name}({ticker})")
         
-        df = yf.download(ticker, start='2025-10-10')
+        df = yf.download(ticker)
         
         if df.empty:
             logging.warning(f"No data returned from {name}")
@@ -35,10 +35,6 @@ def fetch_data(ticker, name):
 def store_data(df, table_name):
     """store dataframe into sqlite3"""
     try:
-        # Fix 1: Move Date index to column
-        df = df.reset_index(names="Date")
-        
-        
         # Fix 2: Flatten column names
         df.columns = [col[0] if isinstance(col, tuple) else col for col in df.columns]
         
