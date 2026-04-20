@@ -20,7 +20,7 @@ def fetch_data(ticker, name):
     try:
         logging.info(f"Fetching data from {name}({ticker})")
         
-        df = yf.download(ticker)
+        df = yf.download(ticker, period="max")
         
         if df.empty:
             logging.warning(f"No data returned from {name}")
