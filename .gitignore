@@ -1,4 +1,14 @@
 __pycache__/
+
 *.pyc
+
 .env
+
 data/*.csv
+
+.venv
+
+logs/
+*.log
+
+.gitignore
