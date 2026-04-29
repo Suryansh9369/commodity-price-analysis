@@ -99,6 +99,78 @@ It does not provide financial advice or guaranteed investment strategies.
 
 ---
 
+## 🔷 🔥 STEP 11: FINAL INSIGHTS
+
+### 📊 1. Trend Analysis
+
+* Gold shows a strong long-term upward trend, especially after 2020, indicating consistent growth.
+* Silver follows a similar trend to gold but with higher fluctuations.
+* Oil exhibits irregular and cyclical behavior, with no consistent long-term upward trend.
+
+---
+
+### 📈 2. Return Analysis (Profitability)
+
+* Silver provides the highest average returns among the three commodities.
+* Gold delivers moderate but stable returns.
+* Oil shows low or even negative average returns during certain periods.
+
+---
+
+### ⚠️ 3. Risk Analysis (Volatility)
+
+* Oil is the most volatile asset, with large fluctuations and extreme movements.
+* Silver has moderate volatility, higher than gold but lower than oil.
+* Gold is the least volatile, making it the most stable asset.
+
+---
+
+### 📉 4. Distribution Analysis
+
+* Gold returns are tightly distributed, indicating stability and low risk.
+* Silver shows a wider spread, indicating moderate volatility.
+* Oil has a very wide distribution with extreme values, indicating high risk and unpredictability.
+
+---
+
+### 🔗 5. Correlation Analysis
+
+* Gold and silver show a strong positive correlation, indicating they often move together.
+* Oil behaves differently and has weaker correlation with both gold and silver.
+* This suggests diversification benefits when including oil in a portfolio.
+
+---
+
+### 📊 6. Risk vs Return Trade-off
+
+* Silver offers the best balance between risk and return.
+* Gold is a low-risk, stable asset suitable for conservative investors.
+* Oil is high-risk with poor risk-return performance in the analyzed period.
+
+---
+
+### 📉 7. Moving Average Insights
+
+* The 30-day moving average confirms gold’s strong upward trend.
+* Silver follows a similar but more volatile path.
+* Oil shows unstable and inconsistent movement over time.
+
+---
+
+### 🧠 Final Conclusion
+
+* Gold is the most stable and reliable asset for long-term investment.
+* Silver provides higher returns but comes with moderate risk.
+* Oil is highly volatile and less predictable, making it suitable only for high-risk strategies.
+
+---
+
+### ⚠️ Disclaimer
+
+This analysis is based on historical data and does not guarantee future performance.
+
+
+
 ## 👨‍💻 Author
 
 Suryansh
