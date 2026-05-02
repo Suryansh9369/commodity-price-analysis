@@ -1,3 +1,6 @@
+#preprocess.py
+# this script used to clean and preprocess the dataframe.
+
 import pandas as pd
 
 #Convert date to datetime
@@ -12,7 +15,7 @@ def set_index(df):
 
 #handle missing values
 def handle_missing_value(df):
-    df.ffill()
+    df.ffill(inplace=True)
     df.dropna(inplace=True)
     return df
 
@@ -21,3 +24,4 @@ def preprocess(df):
     df = set_index(df)
     df= handle_missing_value(df)
     return df
+
