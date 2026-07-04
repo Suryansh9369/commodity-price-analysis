@@ -1,0 +1,35 @@
+Step 1:
+
+👉 Data pipeline (DONE ✅)
+
+Step 2:
+
+👉 EDA (you are here)
+
+Step 3:
+
+👉 Insights (MOST IMPORTANT)
+
+Example:
+
+“Gold is less volatile than oil”
+“Silver follows gold closely”
+
+
+Step 4:
+
+👉 Prediction (basic model)
+
+Step 5:
+
+👉 Dashboard (optional)
+
+
+
+
+“This project analyzes gold, silver, and oil prices to identify trends, risk (volatility), and relationships, helping investors make informed decisions about which asset may be more stable or profitable over time.”
+
+Which asset is more volatile (riskier)
+Which asset shows better long-term growth
+How assets are related (correlation)
+What is the recent trend direction

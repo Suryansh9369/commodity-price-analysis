@@ -1,6 +1,6 @@
 #stock_summary.py
 
-# this script will fetch stocks data from inventory.db and after preprocessing and featuring will restore in database (inventory.db)
+# this script will fetch raw stocks data from inventory.db and after preprocessing and featuring will restore in database (inventory.db)
 
 import pandas as pd
 import sqlite3
